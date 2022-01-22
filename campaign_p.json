@@ -1,1 +1,24 @@
-{"Progress" : [ { "Key" : "germany" , "value" : [0,1,1,1] } , { "Key" : "britain" , "value" : [0,1,1,1] } ] }
+{
+"Progress": [
+{
+"Key": "germany",
+"Value": [
+0,
+1,
+2,
+3,
+4
+]
+},
+{
+"Key": "britain",
+"Value": [
+0,
+1,
+2,
+3,
+4
+]
+}
+]
+}
